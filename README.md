@@ -1,27 +1,150 @@
-# 💫 About Me:
-🔭 I’m currently working on CNN Models<br>👯 I’m looking to collaborate on AI/ML Projects<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning TensorFlow, Keras<br>💬 Ask me about ML, DL, AI
+<div align="center">
 
+<!-- ████████████████████ HEADER ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d62,60:00d4ff,100:ffb800&height=220&section=header&text=Virat%20Dwivedi&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Production%20ML&descAlignY=58&descAlign=50&descSize=17&descColor=aaaaaa" width="100%"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=plastic&logo=rescript&logoColor=e34c4c) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Viratdwvd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Viratdwvd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viratdwvd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ████████████████████ TYPING ████████████████████ -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Viratdwvd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=750&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;FastAPI+%2B+LangGraph+%2B+FAISS+%2B+HuggingFace;Turning+Raw+Data+into+Deployable+Intelligence;Class+of+2026+%E2%80%94+Open+to+AI+Engineer+Roles)](https://git.io/typing-svg)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Viratdwvd&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ████████████████████ BADGES ████████████████████ -->
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Viratdwvd&style=flat-square&color=00d4ff&label=PROFILE+VIEWS)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/viratdwivedi)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/Virat_Dwivedi/)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/viratdwivedi14)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Viratdwvd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `$ whoami`
+
+```python
+class ViratDwivedi:
+    def __init__(self):
+        self.name       = "Virat Dwivedi"
+        self.role       = "AI Engineer  |  Data Science '26  |  India 🇮🇳"
+        self.building   = [
+            "Agentic RAG App   →  LangGraph + FAISS + HuggingFace",
+            "AutoInsight AI    →  FastAPI + LangGraph + Streamlit",
+        ]
+        self.ask_me     = ["Agentic AI", "Production ML Systems", "LangGraph"]
+        self.looking    = "AI Engineer & ML Engineer roles (Fresher 2026)"
+        self.motto      = "Coder by fate. Athlete by soul."
+
+    def __repr__(self):
+        return "Turning data into deployable intelligence."
+```
+
+---
+
+## `$ cat tech_stack.json`
+
+### 🧠 AI · ML · Deep Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-00BCD4?style=for-the-badge&logo=meta&logoColor=white)
+
+### ⚙️ Agentic · Backend · UI
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 📊 Data · MLOps
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## `$ ls featured_projects/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AutoInsight AI
+> **Domain-agnostic agentic CSV analysis platform**
+
+- 🔬 SHAP explainability + model evaluation
+- 📄 Automated PDF report generation
+- 📈 MLflow experiment tracking
+- ✅ 63-test production test suite
+
+**Stack:** `FastAPI` · `LangGraph` · `Streamlit` · `SHAP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 Agentic RAG App
+> **Production-grade RAG pipeline, clean architecture**
+
+- 🧠 LangGraph multi-agent orchestration
+- 🗄️ FAISS vector store + HuggingFace embeddings
+- 🏗️ Config → Core → Ingestion → Agents layers
+- 📊 Built-in analytics layer
+
+**Stack:** `LangGraph` · `FAISS` · `HuggingFace` · `Streamlit`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ git log --stat`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Viratdwvd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Virat's%20GitHub%20Stats&bg_color=0d1117&title_color=00d4ff&icon_color=ffb800&text_color=aaaaaa&border_color=21262d"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viratdwvd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages&bg_color=0d1117&title_color=00d4ff&text_color=aaaaaa"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Viratdwvd&theme=tokyonight&hide_border=true&background=0D1117&stroke=21262d&ring=00d4ff&fire=ffb800&currStreakLabel=00d4ff" height="155"/>
+
+</div>
+
+---
+
+## `$ watch contribution-snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viratdwvd/Viratdwvd/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viratdwvd/Viratdwvd/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Viratdwvd/Viratdwvd/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+## `$ trophy --display-all`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Viratdwvd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb800,50:00d4ff,100:0D1117&height=130&section=footer" width="100%"/>
+
+</div>
