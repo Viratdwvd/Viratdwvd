@@ -107,13 +107,19 @@ class ViratDwivedi:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Viratdwvd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Virat's%20GitHub%20Stats&bg_color=0d1117&title_color=00d4ff&icon_color=ffb800&text_color=aaaaaa&border_color=21262d"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viratdwvd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages&bg_color=0d1117&title_color=00d4ff&text_color=aaaaaa"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Viratdwvd&theme=tokyonight&hide_border=true&background=0D1117&stroke=21262d&ring=00d4ff&fire=ffb800&currStreakLabel=00d4ff&dates=aaaaaa" height="160"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Viratdwvd&theme=tokyonight&hide_border=true&background=0D1117&stroke=21262d&ring=00d4ff&fire=ffb800&currStreakLabel=00d4ff" height="155"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Viratdwvd&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Viratdwvd&theme=tokyonight" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Viratdwvd&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Viratdwvd&theme=tokyonight&utcOffset=5.5" height="160"/>
 
 </div>
 
@@ -126,8 +132,10 @@ class ViratDwivedi:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viratdwvd/Viratdwvd/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viratdwvd/Viratdwvd/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Viratdwvd/Viratdwvd/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="⚡ contribution graph" src="https://raw.githubusercontent.com/Viratdwvd/Viratdwvd/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
+
+> ⚙️ **Note:** Run the `snake.yml` GitHub Actions workflow once to generate this animation.
 
 </div>
 
@@ -137,7 +145,7 @@ class ViratDwivedi:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Viratdwvd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Viratdwvd&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
